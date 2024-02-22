@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cab69138.css",
+    "main.js": "/static/js/main.ce4fcd9b.js",
+    "static/media/Banner.webp": "/static/media/Banner.815af771a3e7391c1b31.webp",
+    "static/media/BlackChimney.webp": "/static/media/BlackChimney.efedf21ae9bf779b3e73.webp",
+    "static/media/News.webp": "/static/media/News.ced3ef148abf0fa0031e.webp",
+    "index.html": "/index.html",
+    "main.cab69138.css.map": "/static/css/main.cab69138.css.map",
+    "main.ce4fcd9b.js.map": "/static/js/main.ce4fcd9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cab69138.css",
+    "static/js/main.ce4fcd9b.js"
+  ]
+}
